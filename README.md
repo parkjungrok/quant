@@ -1,4 +1,3 @@
-# est
 환경설정
 pycharm terminal
 git init
